@@ -1,6 +1,14 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Fazendo um CRUD com conexão com banco de dados MySQL.
+Nesse CRUD estou simulando uma agenda de contato.
+CREATE = "OK";
+READ = null;
+UPDATE = null;
+DELETE = null;
+
+Conexão com o banco de dados feita e criação de contatos salvando:
+![alt text](readmeimg/image.png)
 
 ## Folder Structure
 
