@@ -3,12 +3,18 @@
 Fazendo um CRUD com conexão com banco de dados MySQL.
 Nesse CRUD estou simulando uma agenda de contato.
 CREATE = "OK";
-READ = null;
-UPDATE = null;
+READ = "OK";
+UPDATE = "OK";
 DELETE = null;
 
 Conexão com o banco de dados feita e criação de contatos salvando:
-![alt text](readmeimg/image.png)
+![Create](readmeimg/create.png)
+Listagem de contatos salvos
+![Read](readmeimg/read.png)
+Update de contatos
+![Update](readmeimg/update.png)
+Delete de contatos
+![Delete](readmeimg/delete.png)
 
 ## Folder Structure
 
